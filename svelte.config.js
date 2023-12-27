@@ -7,9 +7,13 @@ const config = {
   compilerOptions: {
     customElement: true,
   },
-  // kit: {
-  //   adapter: adapter(),
-  // },
+  kit: {
+    alias: {
+      dekilteui: "./src/lib",
+      "dekilteui/*": "./src/lib/*",
+    },
+    // adapter: adapter(),
+  },
 };
 
 export default config;
