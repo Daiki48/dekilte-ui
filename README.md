@@ -33,6 +33,15 @@ const config = {
 export default config;
 ```
 
+# Example
+
+```svelte
+<script>
+  import { Button } from 'dekilte-ui';
+</script>
+<Button>Hello Dekilte UI!!!</Button>
+```
+
 # Author
 
 Daiki Nakashima
