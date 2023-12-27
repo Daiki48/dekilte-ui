@@ -11,6 +11,8 @@ const config = {
     alias: {
       dekilteui: "./src/lib",
       "dekilteui/*": "./src/lib/*",
+      $components: "./src/components",
+      "$components/*": "./src/components/*",
     },
     // adapter: adapter(),
   },
