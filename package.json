@@ -1,16 +1,25 @@
 {
 	"name": "dekilte-ui",
-	"version": "0.0.5",
-  "license":"MIT",
-  "author": {"name": "Daiki Nakashima", "email": "daiki48.engineer@gmail.com"},
-  "description": "Dekilte UI is Svelte's UI library.",
-  "repository": {"type": "git", "url": "https://github.com/Daiki48/dekilte-ui.git"},
-  "bugs": {"url": "https://github.com/Daiki48/dekilte-ui/issues", "email": "daiki48.engineer@gmail.com"},
- "keywords": [
-  "typescript",
-  "svelte",
-  "ui-component"
- ],
+	"version": "0.0.6",
+	"license": "MIT",
+	"author": {
+		"name": "Daiki Nakashima",
+		"email": "daiki48.engineer@gmail.com"
+	},
+	"description": "Dekilte UI is Svelte's UI library.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Daiki48/dekilte-ui.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Daiki48/dekilte-ui/issues",
+		"email": "daiki48.engineer@gmail.com"
+	},
+	"keywords": [
+		"typescript",
+		"svelte",
+		"ui-component"
+	],
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",

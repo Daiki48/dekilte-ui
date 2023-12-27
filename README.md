@@ -1,4 +1,6 @@
-<img src="/static/dekilte-ui-logo-bg.png" style="display: flex; justify-content: center;" alt="Dekilte UI" />
+<div style="display: flex;">
+  <img src="/static/dekilte-ui-logo-bg.png" style="justify-content: center;" alt="Dekilte UI" />
+</div>
 
 ```shell
 $ npm install -D dekilte-ui
