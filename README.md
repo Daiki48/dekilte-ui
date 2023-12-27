@@ -1,4 +1,4 @@
-![dekilte-ui-logo](/static/dekilte-ui-logo-bg.png)
+<img src="/static/dekilte-ui-logo-bg.png" style="display: flex; justify-content: center;" alt="Dekilte UI" />
 
 ```shell
 $ npm install -D dekilte-ui
